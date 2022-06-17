@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qk4ot7dUcabVV0A/CZyOwxKRcm4/HyBxv3CwXfNWQPvGl2Zj7Jmv4nStUOG/ve6xaKn7R0HhQwLCGGlQEP0xTw==",
+  "success": true,
+  "projectFilePath": "C:\\cloud hands-on\\hands-on7\\hands-on7\\hands-on7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
